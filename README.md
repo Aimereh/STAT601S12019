@@ -2,10 +2,10 @@
 
 Auckland University of Technology (AUT) - STAT601 Statistical Methods S1 2019
 
-* AUT STAT603 Statistical MethodsS1 2021 Assignment One
-* AUT STAT603 Statistical Methods S1 2021 Assignment Two
-* AUT STAT603 Statistical Methods S1 2021 Assignment Three
-* AUT STAT603 Statistical Methods S1 2021 Portfolio
+* AUT STAT603 Statistical Methods S1 2019 Assignment One
+* AUT STAT603 Statistical Methods S1 2019 Assignment Two
+* AUT STAT603 Statistical Methods S1 2019 Assignment Three
+* AUT STAT603 Statistical Methods S1 2019 Portfolio
 
 Links:
 
